@@ -36,7 +36,7 @@
 
 ### ⚙️ Github Analytics
 
-![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=sirdiego98&show_icons=true&theme=radical)
+![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=doquendob&show_icons=true&theme=radical)
 
 ---
 
