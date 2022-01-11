@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 About me 
 - 🔭 I like to improve constantly my skills as a software developer and find new ways and solutions to solve challenging problems
-- 🎓 I studied computer science at Ucompensar university of Colombia. 
+- 🎓 I studied software engineering at Ucompensar university of Colombia. 
 - 🎯 2022 Goals: Contribute more to Open Source projects, and build own awesome projects.
 - 📚 In my free time I like to read interesting books, do exercise and play video games
 - ✉️ You can shoot me an email at diego.oquendo35@gmail.com! I'll respond ASAP.
