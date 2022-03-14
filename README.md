@@ -1,7 +1,5 @@
 ### Hi there, I'm [Diego!] 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-
 ## I'm Diego Oquendo, a passionate self-taught Full Stack Developer from Colombia.
 
 ### 👨🏻‍💻 About me 
