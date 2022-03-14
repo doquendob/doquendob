@@ -1,4 +1,4 @@
-### Hi there, I'm [Diego!] 👋 
+### Hi there, I'm Diego! 👋 
 
 ## I'm Diego Oquendo, a passionate self-taught Full Stack Developer from Colombia.
 
@@ -49,7 +49,6 @@
 
 <br />
 
-[Diego!]: https://codeSTACKr.com
 [twitter]: https://twitter.com/DiegoOq51133758
 [instagram]: https://instagram.com/diegobfxlm
 [linkedin]: https://www.linkedin.com/in/diego-oquendo-beltr%C3%A1n-19317522a/
