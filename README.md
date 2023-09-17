@@ -1,6 +1,6 @@
 ### Hi there, I'm Diego! 👋 
 
-## I'm Diego Oquendo, a passionate self-taught Full Stack Developer from Colombia.
+## I'm Diego Oquendo, a passionate self-taught Full Stack Developer.
 
 ### 👨🏻‍💻 About me 
 - 🔭 I like to improve constantly my skills as a software developer and find new ways and solutions to solve challenging problems
