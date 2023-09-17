@@ -17,7 +17,7 @@
 <img align="left" alt="JavaScript" src="https://camo.githubusercontent.com/6e8ce928be6e5866e27140eb0bb25479b52137d75ee0196e7b67c91038a9abc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074" />
 <img align="left" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript&logoColor=007ACC" />
 <img align="left" alt="GraphQl" src="https://img.shields.io/badge/GraphQl-05122A?style=flat&logo=graphql&logoColor=e10098" />
-<img align="left" alt="Jest" src="https://img.shields.io/badge/Jest-05122A?style=flat&logo=jest&logoColor=007ACC" />
+<img align="left" alt="Jest" src="https://img.shields.io/badge/Jest-05122A?style=flat&logo=jest&logoColor=c53c14" />
 <img align="left" alt="Nodejs" src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" />
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" />
 <img align="left" alt="CSS3" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" />
