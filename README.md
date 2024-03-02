@@ -14,7 +14,7 @@
 ### 🛠Tech Stack and Tools:
 
 <img align="left" alt="React" src="https://camo.githubusercontent.com/0dbdbda9b41b77beb88c3a54e5da74ae7632c0683b09536f78bcc146258be5fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3035313232413f7374796c653d666c6174266c6f676f3d7265616374" />
-<img align="left" alt="JavaScript" src="https://camo.githubusercontent.com/6e8ce928be6e5866e27140eb0bb25479b52137d75ee0196e7b67c91038a9abc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074" />
+<img align="left" alt="JavaScript" src="https://img.shields.io/badge/Javascript-05122A?style=flat&logo=javascript&logoColor=CCCC00" />
 <img align="left" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript&logoColor=007ACC" />
 <img align="left" alt="GraphQL" src="https://img.shields.io/badge/GraphQL-05122A?style=flat&logo=graphql&logoColor=e10098" />
 <img align="left" alt="Jest" src="https://img.shields.io/badge/Jest-05122A?style=flat&logo=jest&logoColor=c53c14" />
@@ -28,7 +28,7 @@
 <img align="left" alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C" />
 <img align="left" alt="VisualStudio" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" />
 
-
+https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript&logoColor=007ACC
 <br />
 <br />
 
