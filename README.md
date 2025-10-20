@@ -14,7 +14,7 @@
 ### 🛠Tech Stack and Tools:
 
 <img align="left" alt="React" src="https://img.shields.io/badge/React-05122A?style=flat&logo=react&logoColor=007ACC" />
-<img align="left" alt="Nextjs" src="https://img.shields.io/badge/Next-05122A?style=flat&logo=next&logoColor=007ACC" />
+<img align="left" alt="Nextjs" src="https://img.shields.io/badge/NextJS-05122A?style=flat&logo=nextjs&logoColor=007ACC" />
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/Javascript-05122A?style=flat&logo=javascript&logoColor=CCCC00" />
 <img align="left" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript&logoColor=007ACC" />
 <img align="left" alt="GraphQL" src="https://img.shields.io/badge/GraphQL-05122A?style=flat&logo=graphql&logoColor=e10098" />
